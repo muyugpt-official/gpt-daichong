@@ -34,7 +34,7 @@ title: Claude国内充值全指南2026｜Claude Pro、Claude API、Claude Code�
 
 # Claude国内怎么充值？Pro、API、Code付款问题全解答
 
-> **2026年6月更新，所有方案亲测可用**
+> **2026年7月更新，所有方案亲测可用**
 
 Claude Fable 5 发布后，越来越多国内用户想订阅 Claude Pro、充 Claude API、用 Claude Code，但一到付款就卡住——国内卡付不了，PayPal 也不通，不知道该怎么充值。**这篇文章把所有 Claude 付款相关的问题一次性讲清楚。**
 
@@ -196,4 +196,4 @@ Pro/Max 订阅最快的方式：
 - 更详细的方案对比：[Claude Pro充值教程2026全攻略](./claude-recharge-guide.md)
 - Claude Code 能不能用人民币：[Claude Code能支付人民币吗？国内充值全解答](./claude-code-rmb.md)
 - 也想充 ChatGPT 看这篇：[国内ChatGPT充值教程2026全方案](./chatgpt-recharge-guide.md)
-- ChatGPT 怎么付款：[怎么购买ChatGPT-5.5？国内信用卡、PayPal、代付全方案](./chatgpt-buy-guide.md)
+- ChatGPT 怎么付款：[怎么购买ChatGPT-5.6？国内信用卡、PayPal、代付全方案](./chatgpt-buy-guide.md)

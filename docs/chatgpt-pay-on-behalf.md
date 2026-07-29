@@ -25,7 +25,7 @@ tags:
 
 # ChatGPT如何让别人代付？三种代付方式实测
 
-> **2026年6月更新，方案亲测可用**
+> **2026年7月更新，方案亲测可用**
 
 前面写过[ChatGPT充值方法推荐](./chatgpt-recharge-method.md)，把海外卡、礼品卡、代充平台都过了一遍。这篇专门讲一个高频场景：**自己没有海外卡，想让别人帮忙付，到底怎么操作才靠谱？**
 
@@ -144,5 +144,5 @@ ChatGPT 想让别人代付，三条路：**朋友海外卡直付（要信任）�
 
 - 各渠道完整对比：[ChatGPT充值方法推荐2026](./chatgpt-recharge-method.md)
 - 国内充值全方案：[国内ChatGPT充值教程2026](./chatgpt-recharge-guide.md)
-- 怎么付款一篇讲清：[怎么购买ChatGPT-5.5？国内信用卡、PayPal、代付全方案](./chatgpt-buy-guide.md)
+- 怎么付款一篇讲清：[怎么购买ChatGPT-5.6？国内信用卡、PayPal、代付全方案](./chatgpt-buy-guide.md)
 - 同样没海外卡想充 Claude：[Claude Code能支付人民币吗？国内充值全解答](./claude-code-rmb.md)

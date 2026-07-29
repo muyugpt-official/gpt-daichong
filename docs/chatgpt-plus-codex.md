@@ -1,6 +1,6 @@
 ---
-title: ChatGPT Plus和Codex是什么关系？2026年Codex怎么用、要不要单独付费一篇讲清
-description: 一篇讲清ChatGPT Plus和Codex的关系：Codex是OpenAI的AI编程智能体，不是单独收费的产品，订阅ChatGPT Plus后用同一个账号即可使用Codex（网页版、IDE扩展、Codex CLI、GitHub集成）。文章说明Codex是什么、和GPT-5.5的关系、Plus/Pro额度区别，以及国内没有海外卡时如何用支付宝微信开通ChatGPT Plus会员（PayAI.plus代充亲测可用）。
+title: ChatGPT Plus和Codex是什么关系？2026年Codex 5.6 Sol、Terra、Luna怎么用、要不要单独付费
+description: 一篇讲清ChatGPT Plus和Codex的关系：Codex是OpenAI的AI编程智能体，可通过同一ChatGPT账号使用网页版、IDE扩展、Codex CLI和GitHub集成。文章说明Codex 5.6 的 Sol、Terra、Luna 模型、套餐与额度的关系，以及国内没有海外卡时如何用支付宝微信开通ChatGPT Plus会员。
 keywords:
   - ChatGPT Plus和Codex的关系
   - Codex是什么
@@ -10,7 +10,8 @@ keywords:
   - OpenAI Codex
   - Codex CLI
   - codex编程智能体
-  - GPT-5.5 Codex
+  - GPT-5.6 Codex
+  - Codex 5.6 Sol Terra Luna
   - Codex IDE扩展
   - ChatGPT Plus充值
   - 国内开通ChatGPT Plus
@@ -25,9 +26,9 @@ tags:
   - ChatGPT充值
 ---
 
-# ChatGPT Plus和Codex是什么关系？Codex怎么用、要不要单独付费，一篇讲清
+# ChatGPT Plus和Codex是什么关系？Codex 5.6 Sol、Terra、Luna怎么用，一篇讲清
 
-> **2026年6月更新，内容亲测可用**
+> **2026年7月更新，内容亲测可用**
 
 最近很多录友问我：**Codex 是不是要单独买？我开了 ChatGPT Plus 能直接用 Codex 吗？** 这俩到底什么关系，网上说法乱七八糟。这篇文章一次讲清楚。
 
@@ -57,7 +58,7 @@ Codex 目前主要有这几种用法：
 很多人把 ChatGPT、ChatGPT Plus、Codex 三个词搞混，其实层级很清楚：
 
 - **ChatGPT**：OpenAI 的产品，免费版也能用，但模型弱、额度低
-- **ChatGPT Plus**：ChatGPT 的付费订阅，$20/月，能用 GPT-5.5、更高额度、更多功能
+- **ChatGPT Plus**：ChatGPT 的付费订阅，$20/月；可用模型、额度和功能以套餐、地区及产品页面显示为准
 - **Codex**：ChatGPT 订阅里的一个功能/工具，**Plus 及以上的订阅用户都能用**
 
 也就是说，**Codex 是 ChatGPT Plus 这张"会员卡"里附带的能力之一**，不是另一个要单独掏钱的产品。你订了 Plus，登录 ChatGPT 账号，Codex 的网页版、IDE 扩展、CLI 就都能用了，按你的订阅档位给对应的使用额度。
@@ -75,11 +76,11 @@ Codex 目前主要有这几种用法：
 
 所以"要不要为 Codex 单独付费"这个问题本身就问错了。**正确的问法是：我该订哪个档位的 ChatGPT，才能舒服地用 Codex。** 对大多数个人开发者来说，**ChatGPT Plus 就够入门体验 Codex 了**，真觉得额度不够再升 Pro。
 
-## Codex 和 GPT-5.5 是什么关系？
+## Codex 5.6 和 GPT-5.6 是什么关系？
 
-也有人问：我订 Plus 是为了用 GPT-5.5，那 Codex 用的是不是 GPT-5.5？
+也有人问：我订 Plus 是为了用 GPT-5.6，那 Codex 5.6 用的是什么模型？
 
-可以这么理解：**GPT-5.5 是通用大模型，Codex 用的是同一代模型里专门为编程调优的版本**。你在 ChatGPT 对话框聊天用的是通用模型，派给 Codex 干编程活的时候，它走的是编程专用模型。两者同属一代，能力侧重不同——一个什么都能聊，一个专精写代码。
+可以这么理解：**GPT-5.6 是新一代模型，而 Codex 5.6 提供 Sol、Terra、Luna 三个面向编程任务的模型**。它们服务于不同的代码任务和使用场景；你在 ChatGPT 或 Codex 中实际看到哪些选项，取决于套餐、地区和产品入口。
 
 对你来说不用纠结底层用哪个模型，**只要订阅档位够，对应的能力就都开放给你了**。
 
@@ -159,6 +160,6 @@ ChatGPT Plus 和 Codex 的关系一句话讲完：**Codex 是 ChatGPT 订阅自�
 ## 相关阅读
 
 - 国内怎么给 ChatGPT 充值：[国内ChatGPT充值教程2026：支付宝微信订阅全方案](./chatgpt-recharge-guide.md)
-- 怎么购买、用什么付款：[怎么购买ChatGPT-5.5？国内信用卡、PayPal、代付全方案](./chatgpt-buy-guide.md)
+- 怎么购买、用什么付款：[怎么购买ChatGPT-5.6？国内信用卡、PayPal、代付全方案](./chatgpt-buy-guide.md)
 - 哪种充值方式适合你：[ChatGPT充值方法推荐2026：国内开通Plus怎么选](./chatgpt-recharge-method.md)
 - 也想用 Claude 写代码：[Claude国内充值全指南2026](./claude-buy-guide.md)
