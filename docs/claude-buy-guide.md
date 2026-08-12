@@ -34,7 +34,7 @@ title: Claude国内充值全指南2026｜Claude Pro、Claude API、Claude Code�
 
 # Claude国内怎么充值？Pro、API、Code付款问题全解答
 
-> **2026年7月更新，所有方案亲测可用**
+> **2026年8月更新，所有方案亲测可用**
 
 Claude Fable 5 发布后，越来越多国内用户想订阅 Claude Pro、充 Claude API、用 Claude Code，但一到付款就卡住——国内卡付不了，PayPal 也不通，不知道该怎么充值。**这篇文章把所有 Claude 付款相关的问题一次性讲清楚。**
 
