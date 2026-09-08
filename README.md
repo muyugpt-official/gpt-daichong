@@ -662,6 +662,26 @@ MuyuGPT 是独立第三方 AI 订阅指南与订阅协助平台，与 OpenAI 不
 
 ---
 
+# 十九之二、本仓库详细专题教程
+
+本仓库还整理了几篇更具体的国内充值与代付专题，按场景挑着看即可：
+
+**ChatGPT / GPT**
+
+- [怎么购买 ChatGPT-5.6？国内信用卡、PayPal、代付全方案](./docs/chatgpt-buy-guide.md)
+- [国内 ChatGPT 充值教程：支付宝微信订阅全方案](./docs/chatgpt-recharge-guide.md)
+- [ChatGPT 充值方法推荐：国内开通 Plus 怎么选](./docs/chatgpt-recharge-method.md)
+- [ChatGPT 如何让别人代付？三种代付方式对比](./docs/chatgpt-pay-on-behalf.md)
+- [ChatGPT Plus 和 Codex 是什么关系？Codex 怎么用](./docs/chatgpt-plus-codex.md)
+
+**Claude**
+
+- [Claude 国内充值全指南：Pro、API、Claude Code 付款](./docs/claude-buy-guide.md)
+- [Claude Pro 充值教程：国内支付宝微信订阅全攻略](./docs/claude-recharge-guide.md)
+- [Claude Code 能支付人民币吗？国内充值与苹果手机购买](./docs/claude-code-rmb.md)
+
+---
+
 # 二十、官方信息与第三方信息
 
 关于 ChatGPT 官方：
@@ -711,3 +731,4 @@ MuyuGPT 自身 ChatGPT 商品、人民币价格、付款方式、使用周期、
 
 - **2026-08-13**：重新定位仓库为 GPT代充 / ChatGPT代充专题指南，重点整理 ChatGPT Plus / Pro 国内购买、支付宝微信人民币付款、第三方订阅协助、账号安全、Cookie / Session 风险、订单查询及售后问题。
 - **2026-08-13**：移除原仓库中其他品牌相关内容，并与 MuyuGPT AI订阅知识库建立专题导航。
+- **2026-09-08**：统一 docs 专题文章的品牌口径与充值入口，全部指向 MuyuGPT 官网；移除与第三方平台相关的旧链接、外部图床引用和无法核实的个人体验表述；在 README 中补充本仓库专题文章的内部导航。
