@@ -176,21 +176,11 @@ OpenAI 收到的是苹果 App Store 的订阅付款，整个链路相对稳定�
 
 核心点是：**全程不需要把 OpenAI 账号密码给代充平台。**
 
-我自己用的是这个入口：
+当前 ChatGPT Plus / Pro 的人民币套餐可以在 MuyuGPT 查看：
 
-👉 **[ChatGPT Plus 代充入口 payai.plus](https://payai.plus/)**
+👉 **[MuyuGPT ChatGPT Plus / Pro 套餐](https://muyugpt.com/chatgpt)**
 
-充值页面长这样：
-
-![ChatGPT Plus充值页面，支持国内用户选择充值套餐](https://file1.kamacoder.com/i/web/2026-06-08_09-42-27.jpg)
-
-支付完成后会拿到激活码：
-
-![ChatGPT Plus支付后获取激活码的页面](https://file1.kamacoder.com/i/web/2026-06-08_09-43-32.jpg)
-
-拿到激活码后，按页面教程操作就行。
-
-如果你看不懂页面步骤，网站也有客服联系方式，不懂直接加客服。这个比自己研究虚拟卡、礼品卡要省心很多。
+拿到激活码后，按页面说明自己完成激活就行，全程不用交账号密码。遇到看不懂的步骤，可以联系对应平台客服。这个比自己研究虚拟卡、礼品卡要省心很多。
 
 ## 这几种方法怎么选？
 
@@ -273,9 +263,9 @@ ChatGPT 充值这件事，别追求“看起来最便宜”，要追求“能稳
 
 **普通用户想省事，就走靠谱的激活码代充。**
 
-我目前更推荐这个方式：
+相对更省心的是激活码方式：
 
-👉 **[ChatGPT Plus 代充入口 payai.plus](https://payai.plus/)**
+👉 **[MuyuGPT ChatGPT Plus / Pro 套餐](https://muyugpt.com/chatgpt)**
 
 按页面步骤来，不需要提供账号密码，支付后拿激活码完成充值。
 
@@ -284,7 +274,7 @@ ChatGPT 充值这件事，别追求“看起来最便宜”，要追求“能稳
 ## 相关阅读
 
 - 各渠道完整对比：[国内ChatGPT充值教程2026：支付宝微信订阅全方案](./chatgpt-recharge-guide.md)
-- 没海外卡想让人帮付：[ChatGPT如何让别人代付？三种代付方式实测](./chatgpt-pay-on-behalf.md)
+- 没海外卡想让人帮付：[ChatGPT如何让别人代付？三种代付方式对比](./chatgpt-pay-on-behalf.md)
 - 只想搞清楚怎么付款：[怎么购买ChatGPT-5.6？国内信用卡、PayPal、代付全方案](./chatgpt-buy-guide.md)
 - Plus 还能用 Codex 写代码：[ChatGPT Plus和Codex是什么关系？Codex怎么用一篇讲清](./chatgpt-plus-codex.md)
 - 也想充 Claude 看这篇：[Claude Pro充值教程2026全攻略](./claude-recharge-guide.md)

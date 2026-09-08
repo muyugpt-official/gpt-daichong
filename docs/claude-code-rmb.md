@@ -1,6 +1,6 @@
 ---
 title: Claude Code能支付人民币吗？国内充值、苹果手机购买、支付宝微信付款全解答｜2026
-description: Claude Code能不能用人民币支付？这篇讲清Claude Code的两种计费方式、为什么Anthropic官方不收人民币、以及国内用支付宝微信付人民币开通Claude Code的三条合法路径（激活码代充、苹果礼品卡、海外卡），顺带回答Claude Code能不能用苹果手机购买。2026年亲测可用。
+description: Claude Code能不能用人民币支付？这篇讲清Claude Code的两种计费方式、为什么Anthropic官方不收人民币、以及国内用支付宝微信付人民币开通Claude Code的三条合法路径（激活码代充、苹果礼品卡、海外卡），顺带回答Claude Code能不能用苹果手机购买。
 keywords:
   - Claude Code能支付人民币吗
   - Claude Code苹果手机购买
@@ -26,11 +26,11 @@ tags:
 
 # Claude Code能支付人民币吗？国内充值、苹果手机购买一篇讲清
 
-> **2026年8月更新，方案亲测可用**
+> **2026年8月更新**
 
 前面写过一篇[Claude国内充值全指南](./claude-buy-guide.md)，把 Pro、Max、API 的付款方式都过了一遍。但有个问题被问爆了，单独拎出来讲：**「Claude Code 能不能用人民币付？」「能不能直接用苹果手机买？」**
 
-这俩问题背后其实是同一个焦虑——录友手里只有支付宝、微信和一部 iPhone，没有海外信用卡，到底能不能把 Claude Code 用上。这篇一次性答清楚。
+这俩问题背后其实是同一个焦虑——用户手里只有支付宝、微信和一部 iPhone，没有海外信用卡，到底能不能把 Claude Code 用上。这篇一次性答清楚。
 
 ## 先说结论
 
@@ -40,9 +40,7 @@ tags:
 
 ## Claude Code 是怎么计费的？（这步决定你能不能用人民币）
 
-很多录友以为 Claude Code 是个单独收费的产品，其实不是。它有两条计费线：
-
-![Claude Code 两种计费方式对比：Pro订阅自带额度与API按量计费](https://file1.kamacoder.com/i/web/20260616124133code-billing.png)
+很多用户以为 Claude Code 是个单独收费的产品，其实不是。它有两条计费线：
 
 **第一条：跟着 Claude Pro 订阅走。** 你订了 Claude Pro（$20/月），就附带 Claude Code 的使用额度。日常写代码够用，按月付费，这条线**最容易用人民币解决**。
 
@@ -58,8 +56,6 @@ Anthropic 的收银台只接受 Visa、Mastercard、American Express 这些海�
 
 但国内用户用人民币开通 Claude Code，有这么几条合法路径：
 
-![用人民币开通Claude Code的链路：支付宝微信经代充或礼品卡到Claude Code额度，API线需海外卡](https://file1.kamacoder.com/i/web/20260616124134rmb-path.png)
-
 **路径一：激活码代充（支付宝/微信付人民币）。** 在靠谱的代充平台用支付宝或微信付人民币，拿到 Claude Pro 激活码，自己去官方页面激活。开通 Pro 后就有 Claude Code 额度。**全程不用交账号密码，这是国内最省事的人民币方案。**
 
 **路径二：苹果礼品卡（人民币买卡）。** 淘宝、拼多多用人民币买美区 Apple 礼品卡，兑换到美区 Apple ID，在 iPhone 上订阅 Claude Pro。本质上还是人民币付的钱，只是绕了一道苹果。
@@ -72,7 +68,7 @@ Anthropic 的收银台只接受 Visa、Mastercard、American Express 这些海�
 
 能，但要分清楚买的是哪一部分。
 
-**可以的：** 在 iPhone 上下载 Claude App，用美区 Apple ID + 礼品卡余额订阅 Claude Pro，订阅自带的 Claude Code 额度就能用。对只想在手机上付钱、不碰命令行的录友，这条路最干净——苹果代收款，Anthropic 那边看到的是苹果账单，不存在风控。
+**可以的：** 在 iPhone 上下载 Claude App，用美区 Apple ID + 礼品卡余额订阅 Claude Pro，订阅自带的 Claude Code 额度就能用。对只想在手机上付钱、不碰命令行的用户，这条路最干净——苹果代收款，Anthropic 那边看到的是苹果账单，不存在风控。
 
 **不行的：** Claude Code CLI（电脑上敲命令那个）走的是 API 额度，得在 console.anthropic.com 用海外卡充，**这部分苹果手机付不了**，App Store 里也买不到。
 
@@ -116,12 +112,12 @@ Anthropic 是美国公司，面向全球用美元结算，没在国内开通本�
 
 Claude Code 能不能用人民币，记住一句话：**走 Pro 订阅就能用人民币（代充或礼品卡），走 API CLI 就得海外卡。** 苹果手机能帮你拿下 Pro 这条线，拿不下 API 那条线。
 
-没海外卡又想最快开通的录友，激活码代充是目前最稳的人民币方案：
+没海外卡又想最快开通的话，激活码代充是比较省心的人民币方案：
 
-👉 **Claude Pro 代充入口（支付宝/微信）：[PayAI.plus](https://payai.plus/)**
+👉 **[MuyuGPT Claude Pro / Max 套餐](https://muyugpt.com/claude)**
 
 ## 相关阅读
 
 - 完整付款方式都在这：[Claude国内充值全指南2026](./claude-buy-guide.md)
 - 更详细的方案对比：[Claude Pro充值教程2026全攻略](./claude-recharge-guide.md)
-- 同样没海外卡想充 ChatGPT：[ChatGPT如何让别人代付？三种代付方式实测](./chatgpt-pay-on-behalf.md)
+- 同样没海外卡想充 ChatGPT：[ChatGPT如何让别人代付？三种代付方式对比](./chatgpt-pay-on-behalf.md)

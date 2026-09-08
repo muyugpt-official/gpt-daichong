@@ -28,9 +28,9 @@ tags:
 
 # ChatGPT Plus和Codex是什么关系？Codex 5.6 Sol、Terra、Luna怎么用，一篇讲清
 
-> **2026年8月更新，内容亲测可用**
+> **2026年8月更新**
 
-最近很多录友问我：**Codex 是不是要单独买？我开了 ChatGPT Plus 能直接用 Codex 吗？** 这俩到底什么关系，网上说法乱七八糟。这篇文章一次讲清楚。
+最近很多用户问我：**Codex 是不是要单独买？我开了 ChatGPT Plus 能直接用 Codex 吗？** 这俩到底什么关系，网上说法乱七八糟。这篇文章一次讲清楚。
 
 先给结论：**Codex 不是单独收费的产品，它是 OpenAI 的 AI 编程智能体，包含在 ChatGPT 订阅里。你开了 ChatGPT Plus，用同一个账号就能直接用 Codex，不用再额外付一笔钱。**
 
@@ -97,25 +97,17 @@ Codex 目前主要有这几种用法：
 
 如果你手里有**海外发行的信用卡或绑了外币卡的 PayPal**，那最省事，直接在 OpenAI 官网订阅就行，不用往下看了。
 
-但大多数录友没有海外卡，这时候**靠谱的代充是最快的路子**。
+但大多数用户没有海外卡，这时候**靠谱的代充是最快的路子**。
 
 ## 国内没有海外卡？代充开通 Plus，照样用 Codex
 
 如果你不想折腾海外卡、美区账号，代充是门槛最低的方式。但**一定要选靠谱的平台**，否则盗号、不到账都可能发生。
 
-我自己用的是 PayAI.plus，流程是"支付拿激活码 → 官方页面激活"，**全程不需要提供 OpenAI 账号密码**，比较安全：
+比较稳妥的是激活码模式，流程是"支付拿激活码 → 官方页面激活"，**全程不需要提供 OpenAI 账号密码**。当前 ChatGPT Plus / Pro 的人民币套餐可以在 MuyuGPT 查看：
 
-👉 **[代充入口，PayAI.plus（按步骤操作即可）](https://payai.plus/)**
+👉 **[MuyuGPT ChatGPT Plus / Pro 套餐](https://muyugpt.com/chatgpt)**
 
-充值页面：
-
-![ChatGPT Plus开通Codex代充示意图](https://file1.kamacoder.com/i/web/2026-06-08_09-42-27.jpg)
-
-支付完成后会收到激活码：
-
-![ChatGPT Plus开通Codex代充示意图](https://file1.kamacoder.com/i/web/2026-06-08_09-43-32.jpg)
-
-拿到卡密后按页面教程直接充值就行，网站有客服联系方式，不懂的直接加客服。开通 Plus 之后，再用同一个 ChatGPT 账号登录 Codex（网页版 / IDE 扩展 / CLI），就能开始用了。
+拿到激活码后按页面说明自己完成激活即可，遇到问题可以联系对应平台客服。开通 Plus 之后，再用同一个 ChatGPT 账号登录 Codex（网页版 / IDE 扩展 / CLI），就能开始用了。
 
 ## 常见问题
 
@@ -153,9 +145,9 @@ Codex 目前主要有这几种用法：
 
 ChatGPT Plus 和 Codex 的关系一句话讲完：**Codex 是 ChatGPT 订阅自带的 AI 编程智能体，不单独收费，开了 Plus 用同一个账号就能用。** 想用 Codex，先把 ChatGPT Plus 开起来就行。
 
-国内没有海外卡的录友，开通 Plus 最快的方式是靠谱代充：
+国内没有海外卡的用户，开通 Plus 最快的方式是靠谱代充：
 
-👉 **[推荐 PayAI.plus](https://payai.plus/)**
+👉 **[MuyuGPT ChatGPT Plus / Pro 套餐](https://muyugpt.com/chatgpt)**
 
 ## 相关阅读
 
